@@ -88,7 +88,17 @@ Aqui estão alguns dos projetos que mais me orgulho ou que demonstram minhas hab
 ### 📈 **Minhas Estatísticas no GitHub**
 
 <div align="center">
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=devRicarado1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub"/>
+  <br/>
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devRicarado1&layout=compact&langs_count=7&theme=dracula&hide_border=true" alt="Linguagens Mais Usadas"/>
+  <br/>
+  <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devRicarado1&theme=dracula&hide_border=true" alt="GitHub Streak"/>
+  <br/>
+  <!-- GitHub Trophies (Opcional, mas legal!) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=devRicarado1&theme=dracula&no-frame=true&no-bg=true" alt="Troféus do GitHub"/>
 </div>
 
 ---
@@ -98,7 +108,7 @@ Aqui estão alguns dos projetos que mais me orgulho ou que demonstram minhas hab
 Estou sempre aberto a novas oportunidades, colaborações e discussões sobre tecnologia. Sinta-se à vontade para me contatar!
 
 *   **LinkedIn:** <a href="[Seu link do LinkedIn]" target="_blank" style="text-decoration: underline;">Ricardo Silva</a>
-*   **Email:** <a href="mailto:[Seu email]" target="_blank" style="text-decoration: underline;">dev.ricardosilva1@gmail.com</a>
+*   **Email:** <a href="mailto:dev.ricardosilva1@gmail.com" target="_blank" style="text-decoration: underline;">dev.ricardosilva1@gmail.com</a>
 *   **Instagram:** <a href="https://instagram.com/dev_ricardosilva1" target="_blank" style="text-decoration: underline;">@dev_ricardosilva1</a>
 
 ---
