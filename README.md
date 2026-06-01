@@ -1,13 +1,6 @@
-<div align="center">
-  <a href="https://github.com/devRicarado1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devRicarado1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devRicarado1&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
-
 # Olá, sou o Ricardo Silva! 👋
 
-Desenvolvedor Full Stack apaixonado por criar soluções inovadoras e eficientes. Com foco em tecnologias modernas e arquiteturas escaláveis, busco transformar ideias complexas em sistemas funcionais e intuitivos. Atualmente, dedico-me a projetos que impactam positivamente o dia a dia das pessoas e empresas.
+Sou Desenvolvedor Full Stack em andamento que gosta de criar soluções inovadoras e eficientes. Com foco em tecnologias e arquiteturas escaláveis, busco transformar ideias complexas em sistemas funcionais e intuitivos. Atualmente, dedico-me a projetos que impactam positivamente o dia a dia das pessoas e empresas.
 
 ---
 
@@ -15,10 +8,9 @@ Desenvolvedor Full Stack apaixonado por criar soluções inovadoras e eficientes
 
 Sou um entusiasta da tecnologia com experiência em desenvolvimento web, tanto no frontend quanto no backend. Minha jornada na programação é movida pela curiosidade e pelo desejo de aprender e aplicar as melhores práticas do mercado. Acredito que um bom código é aquele que é limpo, testável e escalável.
 
-*   🌱 Atualmente estou aprofundando meus conhecimentos em **[Mencione algo que você está aprendendo, ex: microsserviços, DevOps, uma nova linguagem]**.
-*   💡 Tenho um grande interesse em **[Mencione uma área de interesse, ex: arquitetura de software, performance, UX/UI]**.
-*   🤝 Aberto a colaborações em projetos de **[Mencione tipos de projetos, ex: código aberto, startups, desafios de programação]**.
-*   💬 Adoro discutir sobre **[Mencione tópicos, ex: novas tecnologias, boas práticas de desenvolvimento, empreendedorismo]**.
+*   🌱 Atualmente estou aprofundando meus conhecimentos em **Linux, Docker e microsserviços, explorando tanto o desenvolvimento backend com Express.js e Spring Boot, quanto o frontend com Angular**.
+*   💡 Tenho um grande interesse em **arquitetura de software backend, escalabilidade de sistemas e otimização de performance**.
+*   💬 Adoro discutir sobre **boas práticas de desenvolvimento e o universo do desenvolvimento Full Stack**.
 
 ---
 
@@ -31,6 +23,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
 </p>
 
 **Frontend:**
@@ -38,6 +31,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
 </p>
 
 **Backend:**
@@ -51,14 +45,17 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
 **Banco de Dados:**
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Supabase-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="SUPABASE"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
 </p>
 
 **Ferramentas e Outros:**
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
+  <img src="https://img.shields.io/badge/Insomnia-5849A5?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia"/>
 </p>
 
 ---
@@ -73,32 +70,19 @@ Aqui estão alguns dos projetos que mais me orgulho ou que demonstram minhas hab
 *   **Status:** Em desenvolvimento contínuo, com roadmap para novas funcionalidades.
 *   **Saiba Mais:** <a href="https://github.com/devRicarado1/gestaogrill-public" target="_blank" style="text-decoration: underline;">Repositório Institucional</a> | <a href="https://gestaogrill.com.br" target="_blank" style="text-decoration: underline;">Site Oficial</a> | <a href="https://wa.me/5571983030216" target="_blank" style="text-decoration: underline;">Demonstração (WhatsApp)</a>
 
-#### ☕ **[Nome do Projeto 2]**
-*   **Descrição:** [Breve descrição do projeto, o que ele faz e qual problema resolve.]
-*   **Tecnologias:** [Liste as principais tecnologias utilizadas.]
-*   **Link:** <a href="[Link para o repositório ou demo]" target="_blank" style="text-decoration: underline;">Ver Projeto</a>
-
-#### 📚 **[Nome do Projeto 3]**
-*   **Descrição:** [Breve descrição do projeto, o que ele faz e qual problema resolve.]
-*   **Tecnologias:** [Liste as principais tecnologias utilizadas.]
-*   **Link:** <a href="[Link para o repositório ou demo]" target="_blank" style="text-decoration: underline;">Ver Projeto</a>
+☕ **API CRUD de Clientes**
+*   **Descrição:** Uma API RESTful para gerenciamento de clientes, permitindo operações básicas (criar, ler, atualizar, deletar) de forma eficiente e organizada.
+*   **Tecnologias:** Node.js, Express.js, MySQL.
+*   **Link:** <a href="https://github.com/devRicarado1/Projetos/tree/main/crud-clientes" target="_blank" style="text-decoration: underline;">Ver Projeto</a>
 
 ---
 
 ### 📈 **Minhas Estatísticas no GitHub**
 
 <div align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=devRicarado1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub"/>
-  <br/>
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devRicarado1&layout=compact&langs_count=7&theme=dracula&hide_border=true" alt="Linguagens Mais Usadas"/>
-  <br/>
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devRicarado1&theme=dracula&hide_border=true" alt="GitHub Streak"/>
   <br/>
-  <!-- GitHub Trophies (Opcional, mas legal!) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=devRicarado1&theme=dracula&no-frame=true&no-bg=true" alt="Troféus do GitHub"/>
 </div>
 
 ---
